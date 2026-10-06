@@ -1,9 +1,14 @@
 ---
-title: "Getting the Penguin on a Clover Field"
-description: "How rooting an ancient Intel tablet turned into failed futex exploits, a Droidboot detour, a missing shell, a legitimate kernel bug, and a terminal that fastfetch finally stopped breaking."
-pubDate: 2026-10-05
-author: "Axissprime(Karthik)"
-heroImage: "./fastfetch-hero.png"
+title: Getting the Penguin on a Clover Field
+description: >-
+  How rooting an ancient Intel tablet turned into failed futex exploits, a
+  Droidboot detour, a missing shell, a legitimate kernel bug, and a terminal
+  that fastfetch finally stopped breaking.
+pubDate: 2026-10-05T00:00:00.000Z
+author: Axissprime(Karthik)
+heroImage: ./fastfetch-hero.png
+authorImage: 'https://avatars.githubusercontent.com/u/72606960'
+updatedDate: Oct 06 2026
 ---
 
 At the end of this, fastfetch looked wonderfully ordinary.
