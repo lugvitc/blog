@@ -74,7 +74,7 @@ But none of this can exist if people don't have the legal right to modify their 
 
 Knowing our rights lets us hack and mod, and share our knowledge and techniques with each other, with confidence. People could expand the craziness or reach of their mods, with full knowledge and confidence that it's legal. It might even permit us to create tools to eventually escape Walled Garden platforms, if we don't like them. ([Or at least use them on *our* terms, not *theirs*](https://github.com/lugvitc/whats4linux))
 
-\- Written by [Derpitron](https://5rupee.co.in)
+\- Written by [Derpitron](https://5rupee.co.in), dedicated to the public domain
 
 # Source?
 
