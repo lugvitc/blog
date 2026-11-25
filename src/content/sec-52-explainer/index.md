@@ -61,7 +61,7 @@ If you remove the watermark or DRM from a movie file because you're trying to sh
 
 I'm not. None of the software-rights interpretations here have been tested in any Court in India yet, unfortunately. [However, the courts have on occasion given comments that affirm this spirit](https://indiankanoon.org/doc/164343914/#:~:text=17.-,I,anyone.), which I believe [could give credence to a more broad, liberal interpretation software-users' rights.](https://indiankanoon.org/doc/93327052/#:~:text=167.-,In,interpretation.)
 
-There might also be conflicts with other laws, such as cyber-crime (The IT Act, 2000), contract law (The Indian Contract Act) or data privacy (Digital Personal Data Protection Act), that have yet to be ironed out.
+There might also be conflicts with other laws, such as cyber-crime (The IT Act, 2000), contract law (The Indian Contract Act) or data privacy (Digital Personal Data Protection Act), that have yet to be ironed out, as well as issues of jurisdiction of the contract. (However, given that this is statutory law, I believe it's unlikely for contracts to be able to legally restrict these rights.)
 
 Future court cases, or laws might contradict what I've written here, in which case I would update any claims or examples as and when they develop.
 
